@@ -1,0 +1,5 @@
+rasa-sdk==3.4.0
+pandas==1.5.3
+PyYAML==6.0
+rasa==3.4.4
+rasa-nlu==0.15.1
